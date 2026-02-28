@@ -76,7 +76,7 @@ Diabetes-Classification-Project
 │
 ├── classification.ipynb
 ├── README.md
-└── dataset.csv (if included)
+└── dataset.csv 
 
 ---
 
